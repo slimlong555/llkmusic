@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as s,c as a,b as n,a as c}from"./index-5723dd2c.js";const _={},r={class:"about"},i=c("h1",null,"This is an about page",-1);function u(b,d){const e=t("base-button");return s(),a("div",r,[i,n(e)])}const p=o(_,[["render",u]]);export{p as default};
